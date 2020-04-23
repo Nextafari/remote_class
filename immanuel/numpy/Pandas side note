@@ -1,0 +1,5 @@
+There are two major objects in pandas, they are the DataFrame and the series.
+    DataFrames are used to represent data in a tabular format, and you can insert those data as dictionaries, assigning them to an empty       
+    DataFrame, and also by reading from a csv file
+    
+    
